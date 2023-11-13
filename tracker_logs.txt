@@ -1,0 +1,15 @@
+2023-11-13 00:37:05.992995: Followers tracked - 464 followers | New followers: 0 | Unfollowers: 0
+2023-11-13 00:37:38.121156: Followers tracked - 463 followers | New followers: -1 | Unfollowers: 1
+2023-11-13 00:40:00.242172: Followers tracked - 463 followers | New followers: 463 | Unfollowers: 1
+2023-11-13 00:40:55.890526: Followers tracked - 463 followers | New followers: 463 | Unfollowers: 1
+2023-11-13 00:41:34.611635: Followers tracked - 463 followers | New followers: 463 | Unfollowers: 464
+2023-11-13 00:46:01.216974: Followers tracked - 463 followers | New followers: 463 | Unfollowers: 1
+2023-11-13 00:46:37.087725: Followers tracked - 463 followers | New followers: 463 | Unfollowers: 463
+2023-11-13 00:53:27.946070: Followers tracked - 463 followers | New followers: 463 | Unfollowers: 0
+2023-11-13 00:54:09.616918: Followers tracked - 463 followers | New followers: 463 | Unfollowers: 463
+2023-11-13 01:01:23.253529: Followers tracked - 463 followers | New followers: 463 | Unfollowers: 0
+2023-11-13 01:02:33.920784: Followers tracked - 464 followers | New followers: 464 | Unfollowers: 463
+2023-11-13 01:05:08.102905: Followers tracked - 464 followers | New followers: 464 | Unfollowers: 0
+2023-11-13 01:06:23.872765: Followers tracked - 464 followers | New followers: 464 | Unfollowers: 464
+2023-11-13 01:12:04.971060: Followers tracked - 463 followers | New followers: 463 | Unfollowers: 464
+2023-11-13 13:43:15.711371: Followers tracked - 466 followers | New followers: 466

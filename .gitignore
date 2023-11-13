@@ -1,0 +1,5 @@
+# .gitignore
+*.db
+*.json
+credentials.py
+followers_db.json
